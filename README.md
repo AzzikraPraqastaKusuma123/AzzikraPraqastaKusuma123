@@ -5,8 +5,6 @@
 </h1>
 
 <h3 align="center">A talented Web Developer from Indonesia, skilled in creating innovative and intuitive digital platforms.</h3>
-<iframe src="https://assets.pinterest.com/ext/embed.html?id=16255248646314658" height="295" width="345" frameborder="0" scrolling="no" ></iframe>
-
 
 <br/>
 
