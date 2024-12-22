@@ -19,12 +19,10 @@
 😄  Fun fact **Hot Water Freezes Faster than Cold Water**
 
 
-<h2 align="center">🎨 Pinterest Inspiration 🎨</h2>
-<div align="center">
-    [![Pinterest Embed](https://i.pinimg.com/236x/62/55/24/62552486314658.jpg)](https://www.pinterest.com/pin/16255248646314658/)
-</div>
- </div>
- 
+<img src="pixelard.gif" alt="Deskripsi GIF" width="500">
+<br>
+<br>
+
 <div align="center"> 
    <a href="mailto:azzikrapraqasta2@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
