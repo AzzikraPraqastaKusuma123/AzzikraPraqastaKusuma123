@@ -47,15 +47,16 @@
 <br/>
 <br/>
 
-<h2 align="center">📊 GitHub Stats</h2>
-
 <div align="center">
-    <!-- GitHub Stats -->
-    ![Azzikra's GitHub stats](https://github-readme-stats.vercel.app/api?username=AzzikraPraqastaKusuma123&show_icons=true&theme=radical)
+  <h2>📊 GitHub Stats</h2>
 
-    <!-- Most Used Languages -->
-    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AzzikraPraqastaKusuma123&layout=compact&theme=radical)
+  <!-- GitHub Stats -->
+  ![Azzikra's GitHub stats](https://github-readme-stats.vercel.app/api?username=AzzikraPraqastaKusuma123&show_icons=true&theme=radical)
 
-    <!-- GitHub Streak Stats -->
-    ![GitHub Streak](https://streak-stats.demolab.com?user=AzzikraPraqastaKusuma123&theme=radical&hide_border=true)
+  <!-- Most Used Languages -->
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AzzikraPraqastaKusuma123&layout=compact&theme=radical)
+
+  <!-- GitHub Streak Stats -->
+![GitHub Streak](https://streak-stats.demolab.com?user=AzzikraPraqastaKusuma123&theme=radical&hide_border=true)
 </div>
+
