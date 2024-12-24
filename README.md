@@ -44,5 +44,21 @@
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
 </div>
 
+<div align="center">
+  <h2>📊 GitHub Stats</h2>
+
+  <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
+    <!-- GitHub Stats -->
+    <img src="https://github-readme-stats.vercel.app/api?username=AzzikraPraqastaKusuma123&show_icons=true&theme=radical" alt="Azzikra's GitHub Stats" style="width: 48%;">
+    
+    <!-- GitHub Streak Stats -->
+    <img src="https://streak-stats.demolab.com?user=AzzikraPraqastaKusuma123&theme=radical&hide_border=true" alt="GitHub Streak" style="width: 48%;">
+  </div>
+
+  <!-- Most Used Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AzzikraPraqastaKusuma123&layout=compact&theme=radical" alt="Top Langs" style="margin-top: 20px; width: 50%;">
+</div>
+
+
 <br/>
 <hr/>
