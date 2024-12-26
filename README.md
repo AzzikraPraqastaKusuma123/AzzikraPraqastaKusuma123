@@ -47,10 +47,5 @@
 <br/>
 <br/>
 
-<div align="center">
-  <h2>📊 GitHub Stats</h2>
 
-  <!-- GitHub Stats -->
-  ![Azzikra's GitHub stats](https://github-readme-stats.vercel.app/api?username=AzzikraPraqastaKusuma123&show_icons=true&theme=radical)   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AzzikraPraqastaKusuma123&layout=compact&theme=radical)
-</div>
 
