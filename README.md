@@ -49,7 +49,8 @@
 <br/>
 
 <h2>📊 GitHub Stats</h2>
-![Azzikra's GitHub stats](https://github-readme-stats.vercel.app/api?username=AzzikraPraqastaKusuma123&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AzzikraPraqastaKusuma123&layout=compact&theme=radical) ![GitHub Streak](https://streak-stats.demolab.com?user=AzzikraPraqastaKusuma123&theme=radical&hide_border=true)
+
+![Azzikra's GitHub stats](https://github-readme-stats.vercel.app/api?username=AzzikraPraqastaKusuma123&show_icons=true&theme=radical)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AzzikraPraqastaKusuma123&layout=compact&theme=radical)![GitHub Streak](https://streak-stats.demolab.com?user=AzzikraPraqastaKusuma123&theme=radical&hide_border=true)
 
 
 
