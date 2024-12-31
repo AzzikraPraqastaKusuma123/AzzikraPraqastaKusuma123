@@ -60,14 +60,6 @@
   <img src="https://streak-stats.demolab.com?user=AzzikraPraqastaKusuma123&theme=radical&hide_border=true" alt="Azzikra's GitHub Streak" height="180em" />
 </div>
 
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/AzzikraPraqastaKusuma123/AzzikraPraqastaKusuma123/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
-
 
 
 
