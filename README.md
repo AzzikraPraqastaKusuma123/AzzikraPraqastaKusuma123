@@ -30,7 +30,7 @@
     <a href="https://linkedin.com/in/azzikra-praqasta-kusuma-198774271" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
-    <a href="https://github.com/AzzikraPraqastaKusuma123" target="_blank">
+    <a href="https://azzikrapraqastakusuma123.github.io/portfolio-personal/" target="_blank">
         <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
     </a>
 </div>
