@@ -8,17 +8,10 @@
 
 <br/>
 
-<div align="center">
-    🔭 I’m currently working on <strong>a marketplace</strong> <br/>
-    🌱 I’m currently learning <strong>Docker, Typescript</strong> <br/>
-    💬 Ask me about <strong>Javascript, Python</strong> or anything via <a href="https://github.com/AzzikraPraqastaKusuma123"><strong>Issues</strong></a> <br/>
-    😄 Fun fact: <strong>Hot Water Freezes Faster than Cold Water</strong> <br/>
-</div>
-
 <br/>
 
 <div align="center">
-    <img src="pixelard.gif" alt="Deskripsi GIF" width="500">
+    <img src="pixelard.gif" alt="Deskripsi GIF" width="1000">
 </div>
 
 <br/>
