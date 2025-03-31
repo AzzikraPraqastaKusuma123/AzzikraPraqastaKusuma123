@@ -1,7 +1,6 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Hack&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👨‍💻;+I'm+Azzikra+Praqasta+Kusuma!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Azzikra+Praqasta+Kusuma!;" />
 </h1>
-
 
 <h3 align="center">
     🚀 A talented Web Developer from Indonesia, skilled in creating innovative and intuitive digital platforms.
