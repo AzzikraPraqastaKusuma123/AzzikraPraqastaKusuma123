@@ -68,9 +68,23 @@
             <img src="https://streak-stats.demolab.com?user=AzzikraPraqastaKusuma123&theme=radical&hide_border=true" />
         </td>
     </tr>
-    <tr>
-        <td colspan="2" align="center">
-            <img src="https://metrics.lecoq.io/AzzikraPraqastaKusuma123?template=classic&base.header=0&base.activity=1&base.community=1&base.metadata=1&languages=1&languages.indepth=1&languages.limit=10&languages.colors=github&languages.threshold=0%&activity=1&activity.limit=5&activity.days=14&activity.filter=all&timezone=Asia/Jakarta&theme=dark" />
-        </td>
-    </tr>
 </table>
+
+<br/>
+
+<h2 align="center">📡 SYSTEM MONITOR</h2>
+
+<pre align="center">
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+▸ USER        : AZZIKRA_PRAQASTA
+▸ ROLE        : WEB DEVELOPER
+▸ MODE        : DEVELOPMENT
+▸ REPOS       : ACTIVE
+▸ COMMITS     : ONLINE
+▸ FOCUS       : FULLSTACK SYSTEMS
+▸ TIMEZONE   : UTC +7 (ID)
+▸ STATUS     : SYSTEM ONLINE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+</pre>
+
+<!-- SYSTEM NOTE: KEEP BUILDING. STAY SHARP. -->
