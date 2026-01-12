@@ -6,8 +6,7 @@
     🚀 A talented Web Developer from Indonesia, skilled in creating innovative and intuitive digital platforms.
 </h3>
 
-<br/>
-<br/>
+<br/><br/>
 
 <div align="center">
     <img src="pixelard.gif" alt="Deskripsi GIF" width="1000">
@@ -38,29 +37,40 @@
     <img src="https://skillicons.dev/icons?i=dart,flutter,nodejs,javascript,typescript,python,php,nextjs,mysql,mongodb,java,cpp" />
 </div>
 
-<br/>
-<br/>
+<br/><br/>
 
 <h2 align="center">🔥 My GitHub Stats</h2>
 
-<p align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AzzikraPraqastaKusuma123&theme=radical" />
-</p>
-
-<p align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AzzikraPraqastaKusuma123&theme=radical" height="180"/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AzzikraPraqastaKusuma123&theme=radical" height="180"/>
-</p>
-
-<p align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AzzikraPraqastaKusuma123&theme=radical" height="180"/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AzzikraPraqastaKusuma123&theme=radical&utcOffset=7" height="180"/>
-</p>
-
-<p align="center">
-    <img src="https://streak-stats.demolab.com?user=AzzikraPraqastaKusuma123&theme=radical&hide_border=true" height="180"/>
-</p>
-
-<p align="center">
-    <img src="https://metrics.lecoq.io/AzzikraPraqastaKusuma123?template=classic&base.header=0&base.activity=1&base.community=1&base.metadata=1&languages=1&languages.indepth=1&languages.limit=10&languages.colors=github&languages.threshold=0%&activity=1&activity.limit=5&activity.days=14&activity.filter=all&timezone=Asia/Jakarta&theme=dark" />
-</p>
+<table align="center">
+    <tr>
+        <td colspan="2" align="center">
+            <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AzzikraPraqastaKusuma123&theme=radical" />
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AzzikraPraqastaKusuma123&theme=radical" />
+        </td>
+        <td align="center">
+            <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AzzikraPraqastaKusuma123&theme=radical" />
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AzzikraPraqastaKusuma123&theme=radical" />
+        </td>
+        <td align="center">
+            <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AzzikraPraqastaKusuma123&theme=radical&utcOffset=7" />
+        </td>
+    </tr>
+    <tr>
+        <td colspan="2" align="center">
+            <img src="https://streak-stats.demolab.com?user=AzzikraPraqastaKusuma123&theme=radical&hide_border=true" />
+        </td>
+    </tr>
+    <tr>
+        <td colspan="2" align="center">
+            <img src="https://metrics.lecoq.io/AzzikraPraqastaKusuma123?template=classic&base.header=0&base.activity=1&base.community=1&base.metadata=1&languages=1&languages.indepth=1&languages.limit=10&languages.colors=github&languages.threshold=0%&activity=1&activity.limit=5&activity.days=14&activity.filter=all&timezone=Asia/Jakarta&theme=dark" />
+        </td>
+    </tr>
+</table>
