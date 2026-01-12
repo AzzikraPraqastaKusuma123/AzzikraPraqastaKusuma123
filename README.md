@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Azzikra+Praqasta+Kusuma!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=ACCESS+GRANTED;+Hi+There!+👋;+I'm+Azzikra+Praqasta+Kusuma!;" />
 </h1>
 
 <h3 align="center">
@@ -72,19 +72,15 @@
 
 <br/>
 
-<h2 align="center">📡 SYSTEM MONITOR</h2>
+<h2 align="center">👁 ACCESS LOG</h2>
 
-<pre align="center">
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-▸ USER        : AZZIKRA_PRAQASTA
-▸ ROLE        : WEB DEVELOPER
-▸ MODE        : DEVELOPMENT
-▸ REPOS       : ACTIVE
-▸ COMMITS     : ONLINE
-▸ FOCUS       : FULLSTACK SYSTEMS
-▸ TIMEZONE   : UTC +7 (ID)
-▸ STATUS     : SYSTEM ONLINE
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-</pre>
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=AzzikraPraqastaKusuma123&style=for-the-badge&color=blueviolet" />
+</p>
 
-<!-- SYSTEM NOTE: KEEP BUILDING. STAY SHARP. -->
+<p align="center">
+    <img src="https://img.shields.io/badge/SYSTEM-ONLINE-7C4DFF?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/SECURITY-STABLE-00E676?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
+
+<!-- SYSTEM NOTE: Keep building. Stay dangerous. -->
